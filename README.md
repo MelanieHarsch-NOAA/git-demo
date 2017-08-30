@@ -1,14 +1,13 @@
 
 # Materials from the intermediate class
 
-Horray
+Horray!
 
-Here is another read me
+Here is another line in the README
 
 Add more text here
 
-Figuring this out
 
-Not sure how to do this
+I am working on the dev branch. Here is a change
 
-Testing
+New text added again
